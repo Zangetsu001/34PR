@@ -1,0 +1,7 @@
+D:\215\Ftd\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\215\Ftd\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\215\Ftd\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\215\Ftd\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+D:\215\Ftd\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\215\Ftd\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\215\Ftd\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
